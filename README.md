@@ -1,6 +1,9 @@
 # yt-download-scripts
-scripts I use to download youtube videos 
-
-All assumes standard folder structure of below and using windows
+Scripts I use to download youtube videos 
+<br> </br>
+Generally assumes folder structure below and using windows
+<br> </br>
 "C:\YTDLP\yt-dlp.exe"
+<br> </br>
 "C:\YTDLP\bin\ffmpeg.exe"
+<br> </br>
